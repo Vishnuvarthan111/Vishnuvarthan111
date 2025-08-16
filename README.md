@@ -49,28 +49,7 @@
 ![Photoshop](https://img.shields.io/badge/photoshop-%2331A8FF.svg?&style=flat&logo=adobe-photoshop&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?&style=flat&logo=adobe-illustrator&logoColor=white)
 
----
 
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishnugoat&theme=react&hide_border=true" alt="Streak Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=vishnugoat&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnugoat&layout=compact&theme=react&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vishnugoat&theme=darkhub&margin-w=10&no-frame=true" />
-</p>
-
----
 
 ### 📫 Connect with me
 
